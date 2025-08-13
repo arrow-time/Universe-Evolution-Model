@@ -1,4 +1,4 @@
-# Universe-Evolution-Model
+# Universe Evolution Model
 
 This document is based on a quantized elastic space model, which assumes that the universe was in a highly compressed state before the Big Bang, with spatial twistor potential energy concentrated in localized regions. 
 
